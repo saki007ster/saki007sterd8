@@ -1,0 +1,14 @@
+uuid: 6f861e01-0eb4-43f5-82bd-0a97c47ef764
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - saki007ster@gmail.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
